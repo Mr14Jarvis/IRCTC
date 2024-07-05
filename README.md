@@ -32,7 +32,7 @@ Backend: PHP 7.4
 Database: MySQL
 Frontend: HTML, CSS, Bootstrap
 Libraries: jQuery, DataTables
-
+ 
 # Contributing 🙏🙏
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
